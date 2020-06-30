@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Creative v1.1.0 (http://startbootstrap.com/template-overviews/creative)
- * Copyright 2013-2016 Start Bootstrap
+ * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 html,
@@ -107,7 +107,7 @@ aside {
 }
 @media (min-width: 768px) {
   .navbar-default {
-    background-color: rgba(85, 85, 85, 0.75);
+    background-color: rgba(85, 85, 85, 0.9);
     border-color: rgba(255, 255, 255, 0.3);
   }
   .navbar-default .navbar-header .navbar-brand {
@@ -166,7 +166,7 @@ header .header-content {
   width: 100%;
 }
 header .header-content .header-content-inner {
-  background-color: rgba(85, 85, 85, 0.75);
+  background-color: rgba(85, 85, 85, 0.9);
   padding-bottom: 10px;
   padding-top: 10px;
 }
